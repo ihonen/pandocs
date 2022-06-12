@@ -71,7 +71,7 @@ developer/publisher of the game. The New Licensee Code is present in newer
 cartridges only (those released after the SGB was invented).
 Older cartridges use the Old Licensee Code at `$014B` instead.
 
-Sample licensee codes:
+Known values:
 
 Code | Publisher
 -----|-----------
@@ -80,13 +80,13 @@ Code | Publisher
 `08` | Capcom
 `13` | Electronic Arts
 `18` | Hudson Soft
-`19` | b-ai
-`20` | kss
-`22` | pow
+`19` | B-AI
+`20` | KSS
+`22` | Pow
 `24` | PCM Complete
-`25` | san-x
-`28` | Kemco Japan
-`29` | seta
+`25` | San-X
+`28` | Kemco
+`29` | SETA
 `30` | Viacom
 `31` | Nintendo
 `32` | Bandai
@@ -94,20 +94,20 @@ Code | Publisher
 `34` | Konami
 `35` | Hector
 `37` | Taito
-`38` | Hudson
+`38` | Hudson Soft
 `39` | Banpresto
-`41` | Ubi Soft
+`41` | Ubisoft
 `42` | Atlus
 `44` | Malibu
-`46` | angel
+`46` | Angel
 `47` | Bullet-Proof
-`49` | irem
+`49` | Irem
 `50` | Absolute
 `51` | Acclaim
 `52` | Activision
-`53` | American sammy
+`53` | American Sammy
 `54` | Konami
-`55` | Hi tech entertainment
+`55` | Hi Tech Expressions
 `56` | LJN
 `57` | Matchbox
 `58` | Mattel
@@ -120,21 +120,21 @@ Code | Publisher
 `70` | Infogrames
 `71` | Interplay
 `72` | Broderbund
-`73` | sculptured
-`75` | sci
+`73` | Sculptured
+`75` | SCi
 `78` | THQ
 `79` | Accolade
-`80` | misawa
-`83` | lozc
-`86` | Tokuma Shoten Intermedia
-`87` | Tsukuda Original
+`80` | Misawa
+`83` | LOZC
+`86` | Tokuma Shoten
+`87` | Tsukuda
 `91` | Chunsoft
-`92` | Video system
+`92` | Video System
 `93` | Ocean/Acclaim
 `95` | Varie
-`96` | Yonezawa/s'pal
+`96` | Yonezawa/S'Pal
 `97` | Kaneko
-`99` | Pack in soft
+`99` | Pack-In-Soft
 `A4` | Konami (Yu-Gi-Oh!)
 
 ## 0146 – SGB Flag
