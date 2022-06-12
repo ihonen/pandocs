@@ -264,8 +264,59 @@ of the game. The value `$33` indicates that the New Licensee Code (in header byt
 `$0144`-`$0145`) is used instead. (Super Game Boy functions will only work if the
 value is `$33`.)
 
-A list of Old Licensee Codes can be found
-[here](https://raw.githubusercontent.com/gb-archive/salvage/master/txt-files/gbrom.txt).
+Known values:
+
+Code | Publisher      | Code | Publisher            | Code | Publisher
+-----|----------------|------|----------------------|------|----------------
+`00` | `<NONE>`       | `01` | Nintendo             | `08` | Capcom
+`09` | Hot-B          | `0A` | Jaleco               | `0B` | Coconuts
+`0C` | Elite          | `13` | Electronic Arts      | `18` | Hudson
+`19` | ITC            | `1A` | Yanoman              | `1D` | Clary
+`1F` | Virgin         | `24` | PCM                  | `25` | San-X
+`28` | Kotobuki       | `29` | SETA                 | `30` | Infogrames
+`31` | Nintendo       | `32` | Bandai               | `33` | `<UNUSED>`
+`34` | Konami         | `35` | Hector               | `38` | Capcom
+`39` | Banpresto      | `3C` | Entertainment Int(?) | `3E` | Gremlin
+`41` | Ubisoft        | `42` | Atlus                | `44` | Malibu
+`46` | Angel          | `47` | Spectrum HoloByte    | `49` | Irem
+`4A` | Virgin         | `4D` | Malibu               | `4F` | U.S. Gold
+`50` | Absolute       | `51` | Acclaim              | `52` | Activision
+`53` | American Sammy | `54` | GameTek              | `55` | Park Place
+`56` | LJN            | `57` | Matchbox             | `59` | Milton Bradley
+`5A` | Mindscape      | `5B` | Romstar              | `5C` | Naxat
+`5D` | Tradewest      | `60` | Titus                | `61` | Virgin
+`67` | Ocean          | `69` | Electronic Arts      | `6E` | Elite
+`6F` | Electro Brain  | `70` | Infogrames           | `71` | Interplay
+`72` | Broderbund     | `73` | Sculptured           | `75` | The Sales Curve
+`78` | THQ            | `79` | Accolade             | `7A` | Triffix
+`7C` | MicroProse     | `7F` | Kemco                | `80` | Misawa
+`83` | LOZC           | `86` | Tokuma Shoten        | `8B` | Bullet-Proof
+`8C` | Vic Tokai      | `8E` | Ape                  | `8F` | I'Max
+`91` | Chunsoft       | `92` | Video System         | `93` | Tsuburaya
+`95` | Varie          | `96` | Yonezawa/S'Pal       | `97` | Kaneko
+`99` | Arc            | `9A` | Nihon Bussan         | `9B` | Tecmo
+`9C` | Imagineer      | `9D` | Banpresto            | `9F` | Nova
+`A1` | Hori           | `A2` | Bandai               | `A4` | Konami
+`A6` | Kawada         | `A7` | Takara               | `A9` | Technōs
+`AA` | Broderbund     | `AC` | Toei                 | `AD` | Toho
+`AF` | Namco          | `B0` | Acclaim              | `B1` | ASCII/Nexoft
+`B2` | Bandai         | `B4` | Enix                 | `B6` | HAL
+`B7` | SNK            | `B9` | Pony Canyon          | `BA` | Culture Brain
+`BB` | Sunsoft        | `BD` | Sony Imagesoft       | `BF` | Sammy
+`C0` | Taito          | `C2` | Kemco                | `C3` | Square
+`C4` | Tokuma Shoten  | `C5` | Data East            | `C6` | Tonkin House
+`C8` | Koei           | `C9` | UFL (spelling?)      | `CA` | Ultra
+`CB` | VAP            | `CC` | Use                  | `CD` | Meldac
+`CE` | Pony Canyon    | `CF` | Angel                | `D0` | Taito
+`D1` | SOFEL          | `D2` | Quest                | `D3` | Sigma
+`D4` | ASK Kodansha   | `D6` | Naxat                | `D7` | Copya
+`D9` | Banpresto      | `DA` | Tomy                 | `DB` | LJN
+`DD` | NCS            | `DE` | Human                | `DF` | Altron
+`E0` | Jaleco         | `E1` | Towa Chiki           | `E2` | Yutaka
+`E3` | Varie          | `E5` | Epoch                | `E7` | Athena
+`E8` | Asmik          | `E9` | Natsume              | `EA` | King
+`EB` | Atlus          | `EC` | Epic/Sony Records    | `EE` | IGS
+`F0` | A-Wave         | `F3` | Extreme              | `FF` | LJN
 
 ## 014C – Mask ROM Version number
 
