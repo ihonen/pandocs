@@ -73,69 +73,29 @@ Older cartridges use the Old Licensee Code at `$014B` instead.
 
 Known values:
 
-Code | Publisher
------|-----------
-`00` | None
-`01` | Nintendo R&D1
-`08` | Capcom
-`13` | Electronic Arts
-`18` | Hudson Soft
-`19` | B-AI
-`20` | KSS
-`22` | Pow
-`24` | PCM Complete
-`25` | San-X
-`28` | Kemco
-`29` | SETA
-`30` | Viacom
-`31` | Nintendo
-`32` | Bandai
-`33` | Ocean/Acclaim
-`34` | Konami
-`35` | Hector
-`37` | Taito
-`38` | Hudson Soft
-`39` | Banpresto
-`41` | Ubisoft
-`42` | Atlus
-`44` | Malibu
-`46` | Angel
-`47` | Bullet-Proof
-`49` | Irem
-`50` | Absolute
-`51` | Acclaim
-`52` | Activision
-`53` | American Sammy
-`54` | Konami
-`55` | Hi Tech Expressions
-`56` | LJN
-`57` | Matchbox
-`58` | Mattel
-`59` | Milton Bradley
-`60` | Titus
-`61` | Virgin
-`64` | LucasArts
-`67` | Ocean
-`69` | Electronic Arts
-`70` | Infogrames
-`71` | Interplay
-`72` | Broderbund
-`73` | Sculptured
-`75` | SCi
-`78` | THQ
-`79` | Accolade
-`80` | Misawa
-`83` | LOZC
-`86` | Tokuma Shoten
-`87` | Tsukuda
-`91` | Chunsoft
-`92` | Video System
-`93` | Ocean/Acclaim
-`95` | Varie
-`96` | Yonezawa/S'Pal
-`97` | Kaneko
-`99` | Pack-In-Soft
-`A4` | Konami (Yu-Gi-Oh!)
+Code | Publisher          | Code   | Publisher     | Code | Publisher
+-----|--------------------|--------|---------------|------|--------------------
+`00` | `<NONE>`           |   `01` | Nintendo R&D1 | `08` | Capcom
+`13` | Electronic Arts    |   `18` | Hudson        | `19` | B-AI
+`20` | KSS                |   `22` | Pow           | `24` | PCM
+`25` | San-X              |   `28` | Kemco         | `29` | SETA
+`30` | Viacom             |   `31` | Nintendo      | `32` | Bandai
+`33` | Ocean/Acclaim      |   `34` | Konami        | `35` | Hector
+`37` | Taito              |   `38` | Hudson        | `39` | Banpresto
+`41` | Ubisoft            |   `42` | Atlus         | `44` | Malibu
+`46` | Angel              |   `47` | Bullet-Proof  | `49` | Irem
+`50` | Absolute           |   `51` | Acclaim       | `52` | Activision
+`53` | American Sammy     |   `54` | Konami        | `55` | Hi Tech Expressions
+`56` | LJN                |   `57` | Matchbox      | `58` | Mattel
+`59` | Milton Bradley     |   `60` | Titus         | `61` | Virgin
+`64` | LucasArts          |   `67` | Ocean         | `69` | Electronic Arts
+`70` | Infogrames         |   `71` | Interplay     | `72` | Broderbund
+`73` | Sculptured         |   `75` | SCi           | `78` | THQ
+`79` | Accolade           |   `80` | Misawa        | `83` | LOZC
+`86` | Tokuma Shoten      |   `87` | Tsukuda       | `91` | Chunsoft
+`92` | Video System       |   `93` | Ocean/Acclaim | `95` | Varie
+`96` | Yonezawa/S'Pal     |   `97` | Kaneko        | `99` | Pack-In-Soft
+`A4` | Konami (Yu-Gi-Oh!) |
 
 ## 0146 – SGB Flag
 
