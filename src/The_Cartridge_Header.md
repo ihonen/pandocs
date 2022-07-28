@@ -217,7 +217,84 @@ This byte is used in older (pre-SGB) cartridges to specify the game's publisher.
 However, the value `$33` indicates that the [New Licensee Code](<#0144-0145 - New Licensee Code>) must be considered instead.
 (The SGB will ignore any [command packets](<#Command Packet Transfers>) unless this value is `$33`.)
 
-Here is [a list of known Old Licensee Codes](https://raw.githubusercontent.com/gb-archive/salvage/master/txt-files/gbrom.txt).
+Sample licensee codes (names with `*` in them are truncated):
+
+| Code | Publisher             | Code | Publisher
+|:-----|:----------------------|:-----|:----------------------
+| `00` | none                  | `93` | tsuburava
+| `01` | nintendo              | `95` | varie
+| `08` | capcom                | `96` | yonezawa/s'pal
+| `09` | hot-b                 | `97` | kaneko
+| `0A` | jaleco                | `99` | arc
+| `0B` | coconuts              | `9A` | nihon bussan
+| `0C` | elite systems         | `9B` | tecmo
+| `13` | electronic arts       | `9C` | imagineer
+| `18` | hudsonsoft            | `9D` | banpresto
+| `19` | itc entertainment     | `9F` | nova
+| `1A` | yanoman               | `A1` | hori electric
+| `1D` | clary                 | `A2` | bandai
+| `1F` | virgin                | `A4` | konami
+| `24` | pcm complete          | `A6` | kawada
+| `25` | san-x                 | `A7` | takara
+| `28` | kotobuki systems      | `A9` | technos japan
+| `29` | seta                  | `AA` | broderbund
+| `30` | infogrames            | `AC` | toei animation
+| `31` | nintendo              | `AD` | toho
+| `32` | bandai                | `AF` | namco
+| `33` | "see above"           | `B0` | acclaim
+| `34` | konami                | `B1` | ascii or nexoft
+| `35` | hector                | `B2` | bandai
+| `38` | capcom                | `B4` | enix
+| `39` | banpresto             | `B6` | hal
+| `3C` | *entertainment i      | `B7` | snk
+| `3E` | gremlin               | `B9` | pony canyon
+| `41` | ubi soft              | `BA` | *culture brain o
+| `42` | atlus                 | `BB` | sunsoft
+| `44` | malibu                | `BD` | sony imagesoft
+| `46` | angel                 | `BF` | sammy
+| `47` | spectrum holoby       | `C0` | taito
+| `49` | irem                  | `C2` | kemco
+| `4A` | virgin                | `C3` | squaresoft
+| `4D` | malibu                | `C4` | *tokuma shoten i
+| `4F` | u.s. gold             | `C5` | data east
+| `50` | absolute              | `C6` | tonkin house
+| `51` | acclaim               | `C8` | koei
+| `52` | activision            | `C9` | ufl
+| `53` | american sammy        | `CA` | ultra
+| `54` | gametek               | `CB` | vap
+| `55` | park place            | `CC` | use
+| `56` | ljn                   | `CD` | meldac
+| `57` | matchbox              | `CE` | *pony canyon or
+| `59` | milton bradley        | `CF` | angel
+| `5A` | mindscape             | `D0` | taito
+| `5B` | romstar               | `D1` | sofel
+| `5C` | naxat soft            | `D2` | quest
+| `5D` | tradewest             | `D3` | sigma enterprises
+| `60` | titus                 | `D4` | ask kodansha
+| `61` | virgin                | `D6` | naxat soft
+| `67` | ocean                 | `D7` | copya systems
+| `69` | electronic arts       | `D9` | banpresto
+| `6E` | elite systems         | `DA` | tomy
+| `6F` | electro brain         | `DB` | ljn
+| `70` | infogrames            | `DD` | ncs
+| `71` | interplay             | `DE` | human
+| `72` | broderbund            | `DF` | altron
+| `73` | sculptered soft       | `E0` | jaleco
+| `75` | the sales curve       | `E1` | towachiki
+| `78` | t*hq                  | `E2` | uutaka
+| `79` | accolade              | `E3` | varie
+| `7A` | triffix entertainment | `E5` | epoch
+| `7C` | microprose            | `E7` | athena
+| `7F` | kemco                 | `E8` | asmik
+| `80` | misawa entertainment  | `E9` | natsume
+| `83` | lozc                  | `EA` | king records
+| `86` | *tokuma shoten i      | `EB` | atlus
+| `8B` | bullet-proof software | `EC` | epic/sony records
+| `8C` | vic tokai             | `EE` | igs
+| `8E` | ape                   | `F0` | a wave
+| `8F` | i'max                 | `F3` | extreme entertainment
+| `91` | chun soft             | `FF` | ljn
+| `92` | video system
 
 ## 014C - Mask ROM Version number
 
