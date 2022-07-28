@@ -72,69 +72,39 @@ It is only meaningful if the [Old Licensee Code](<#014B — Old Licensee Code>) 
 
 Sample licensee codes:
 
-Code | Publisher
------|-------------------------
-`00` | None
-`01` | Nintendo R&D1
-`08` | Capcom
-`13` | Electronic Arts
-`18` | Hudson Soft
-`19` | b-ai
-`20` | kss
-`22` | pow
-`24` | PCM Complete
-`25` | san-x
-`28` | Kemco Japan
-`29` | seta
-`30` | Viacom
-`31` | Nintendo
-`32` | Bandai
-`33` | Ocean/Acclaim
-`34` | Konami
-`35` | Hector
-`37` | Taito
-`38` | Hudson
-`39` | Banpresto
-`41` | Ubi Soft
-`42` | Atlus
-`44` | Malibu
-`46` | angel
-`47` | Bullet-Proof
-`49` | irem
-`50` | Absolute
-`51` | Acclaim
-`52` | Activision
+Code | Publisher                | Code | Publisher
+:----|:-------------------------|:-----|:-------------------------
+`00` | None                     | `54` | Konami
+`01` | Nintendo R&D1            | `55` | Hi tech entertainment
+`08` | Capcom                   | `56` | LJN
+`13` | Electronic Arts          | `57` | Matchbox
+`18` | Hudson Soft              | `58` | Mattel
+`19` | b-ai                     | `59` | Milton Bradley
+`20` | kss                      | `60` | Titus
+`22` | pow                      | `61` | Virgin
+`24` | PCM Complete             | `64` | LucasArts
+`25` | san-x                    | `67` | Ocean
+`28` | Kemco Japan              | `69` | Electronic Arts
+`29` | seta                     | `70` | Infogrames
+`30` | Viacom                   | `71` | Interplay
+`31` | Nintendo                 | `72` | Broderbund
+`32` | Bandai                   | `73` | sculptured
+`33` | Ocean/Acclaim            | `75` | sci
+`34` | Konami                   | `78` | THQ
+`35` | Hector                   | `79` | Accolade
+`37` | Taito                    | `80` | misawa
+`38` | Hudson                   | `83` | lozc
+`39` | Banpresto                | `86` | Tokuma Shoten Intermedia
+`41` | Ubi Soft                 | `87` | Tsukuda Original
+`42` | Atlus                    | `91` | Chunsoft
+`44` | Malibu                   | `92` | Video system
+`46` | angel                    | `93` | Ocean/Acclaim
+`47` | Bullet-Proof             | `95` | Varie
+`49` | irem                     | `96` | Yonezawa/s'pal
+`50` | Absolute                 | `97` | Kaneko
+`51` | Acclaim                  | `99` | Pack in soft
+`52` | Activision               | `A4` | Konami (Yu-Gi-Oh!)
 `53` | American sammy
-`54` | Konami
-`55` | Hi tech entertainment
-`56` | LJN
-`57` | Matchbox
-`58` | Mattel
-`59` | Milton Bradley
-`60` | Titus
-`61` | Virgin
-`64` | LucasArts
-`67` | Ocean
-`69` | Electronic Arts
-`70` | Infogrames
-`71` | Interplay
-`72` | Broderbund
-`73` | sculptured
-`75` | sci
-`78` | THQ
-`79` | Accolade
-`80` | misawa
-`83` | lozc
-`86` | Tokuma Shoten Intermedia
-`87` | Tsukuda Original
-`91` | Chunsoft
-`92` | Video system
-`93` | Ocean/Acclaim
-`95` | Varie
-`96` | Yonezawa/s'pal
-`97` | Kaneko
-`99` | Pack in soft
-`A4` | Konami (Yu-Gi-Oh!)
 
 ## 0146 - SGB Flag
 
